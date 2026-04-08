@@ -4,6 +4,28 @@ public class PracticeProblem {
 
 	}
 
+	public static String seriesInclusive(int num){
+		int i = 1;
+		String series = "";
+		while (i <= num){
+			series = series + i + " ";
+			i++;
+		}
+		series = series.trim();
+		return series;
+	}
+
+	public static String seriesExclusive(int num){
+		int i = 0;
+		String series = "";
+		while (i < num){
+			series = series + i + " ";
+			i++;
+		}
+		series = series.trim();
+		return series;
+	}
+
 	public static void q1() {
 		//Write question 1 code here
 	}

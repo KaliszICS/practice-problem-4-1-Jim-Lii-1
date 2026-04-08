@@ -1,3 +1,10 @@
+/*
+File Name: While Loops
+Author: Jim Li
+Date Created: Apr. 8, 2026
+Date Last Modified: Apr. 8, 2026
+ */
+
 public class PracticeProblem {
 
 	public static void main(String args[]) {
